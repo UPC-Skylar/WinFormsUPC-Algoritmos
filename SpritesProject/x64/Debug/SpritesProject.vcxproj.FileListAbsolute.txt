@@ -1,0 +1,3 @@
+C:\Users\Sashi\Desktop\Unidad 2 Algoritmos\FormulariosUPC\SpritesProject\x64\Debug\SpritesProject.vcxproj.AssemblyReference.cache
+C:\Users\Sashi\Desktop\Unidad 2 Algoritmos\FormulariosUPC\SpritesProject\x64\Debug\SpritesProject.Formulario.resources
+C:\Users\Sashi\Desktop\Unidad 2 Algoritmos\FormulariosUPC\SpritesProject\x64\Debug\SpritesProject.vcxproj.GenerateResource.cache

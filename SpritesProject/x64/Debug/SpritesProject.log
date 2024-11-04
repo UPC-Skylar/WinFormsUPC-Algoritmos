@@ -1,0 +1,4 @@
+﻿  Formulario.cpp
+C:\Users\Sashi\Desktop\Unidad 2 Algoritmos\FormulariosUPC\SpritesProject\Formulario.cpp(5,15): warning C4551: la llamada a la función no tiene lista de argumentos
+  Formulario.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  SpritesProject.vcxproj -> C:\Users\Sashi\Desktop\Unidad 2 Algoritmos\FormulariosUPC\x64\Debug\SpritesProject.exe
