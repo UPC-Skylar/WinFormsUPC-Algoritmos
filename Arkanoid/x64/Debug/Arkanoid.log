@@ -1,0 +1,10 @@
+﻿  Formulario.cpp
+C:\Users\Sashi\Desktop\Unidad 2 Algoritmos\FormulariosUPC\Arkanoid\Figura.h(13,9): warning C4353: se ha utilizado una extensión no estándar: constante 0 como expresión de función. Utilice en su lugar la función intrínseca '__noop'
+  (compilando archivo de origen "Formulario.cpp")
+  
+C:\Users\Sashi\Desktop\Unidad 2 Algoritmos\FormulariosUPC\Arkanoid\Circulo.h(11,9): warning C4353: se ha utilizado una extensión no estándar: constante 0 como expresión de función. Utilice en su lugar la función intrínseca '__noop'
+  (compilando archivo de origen "Formulario.cpp")
+  
+C:\Users\Sashi\Desktop\Unidad 2 Algoritmos\FormulariosUPC\Arkanoid\Formulario.cpp(5,15): warning C4551: la llamada a la función no tiene lista de argumentos
+  Formulario.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Arkanoid.vcxproj -> C:\Users\Sashi\Desktop\Unidad 2 Algoritmos\FormulariosUPC\x64\Debug\Arkanoid.exe
